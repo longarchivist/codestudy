@@ -10,3 +10,9 @@
 - Some notes don't end up making sense the next day
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
+
+
+I want to make a "big idea" just like in https://egghead.io/lessons/vs-code-create-a-second-brain-in-vscode-with-foam
+
+So I type with double brackets: [[My Big Idea]]
+
