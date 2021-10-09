@@ -1,5 +1,8 @@
 # news sites
 
+#news
+#website
+
 https://www.thevintagenews.com
 
 https://trends.gab.com
